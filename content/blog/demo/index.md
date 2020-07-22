@@ -6,7 +6,7 @@ description: "Audio examples accompanying paper ID 192 for the 19th Internationa
 ---
 Audio examples accompanying paper ID 192 for 19th International Conference of Machine Learning and Applications.
 
-While listening to the following audio examples, please note that some sonic artifacts are present here and also in other state-of-the-art singing voice conversion methods (e.g., [1](#ref)). The reduction of such artifacts is not the main target of our research and will be tackled by a research community in the future.
+While listening to the following audio examples, please note that some sonic artifacts are present here and also in other state-of-the-art singing voice conversion methods (e.g., [1](#ref)). The reduction of such artifacts is not the main target of our research and will be tackled by a research community in the future. Please focus on listening to the singer (singing timbre) conversion.
 
 # JPSV-120E Dataset - Female (Song 13 & ID 27)
 

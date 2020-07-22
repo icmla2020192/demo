@@ -6,7 +6,7 @@ description: "Audio examples accompanying paper ID 192 for the 19th Internationa
 ---
 Audio examples accompanying paper ID 192 for 19th International Conference of Machine Learning and Applications.
 
-While listening to the following audio examples, please note that some sonic artifacts are present here and also in other state-of-the-art singing voice conversion methods (e.g., [1](#ref)). The reduction of such artifacts is not the main target of our research and will be tackled by a research community in the future. Please focus on listening to the conversion of musical characteristics such as timbre and singing style.
+While listening to the following audio examples, please note that some sonic artifacts are present here and also in other state-of-the-art singing voice conversion methods (e.g., [[1]](#ref)). The reduction of such artifacts is not the main target of our research and will be tackled by a research community in the future. Please focus on listening to the conversion of musical characteristics such as timbre and singing style.
 
 # JPSV-120E Dataset - Female (Song 13 & ID 27)
 
@@ -141,7 +141,7 @@ Each presented audio example follows song and singer IDs in Tables I and II in t
 
 # NUS-48E Dataset - Female (Song 18 & ID ADIZ)
 
-Each presented audio example follows song and singer IDs in the original NUS-48E dataset [2](#ref). All examples are 16-bit 22050 Hz WAV files.
+Each presented audio example follows song and singer IDs in the original NUS-48E dataset [[2]](#ref). All examples are 16-bit 22050 Hz WAV files.
 
 <figure>
 <figcaption><b>Ground truth (female)</b></figcaption>
@@ -206,7 +206,7 @@ Each presented audio example follows song and singer IDs in the original NUS-48E
 
 # NUS-48E Dataset - Male (Song 15 & ID JLEE)
 
-Each presented audio example follows song and singer IDs in the original NUS-48E dataset [2](#ref). All examples are 16-bit 22050 Hz WAV files.
+Each presented audio example follows song and singer IDs in the original NUS-48E dataset [[2]](#ref). All examples are 16-bit 22050 Hz WAV files.
 
 <figure>
 <figcaption><b>Ground truth (male)</b></figcaption>

@@ -137,7 +137,7 @@ Each presented audio example follows song and singer IDs in Tables I and II in t
 
 
 
-# NUS-48E Dataset - Female (Song 18 & ID 03)
+# NUS-48E Dataset - Female (Song 18 & ID ADIZ)
 
 Each presented audio example follows song and singer IDs in the original NUS-48E dataset paper [1]. All examples are 16-bit 22050 Hz WAV files.
 
@@ -202,7 +202,7 @@ Each presented audio example follows song and singer IDs in the original NUS-48E
 </figure>
 
 
-# NUS-48E Dataset - Male (Song 15 & ID 10)
+# NUS-48E Dataset - Male (Song 15 & ID JLEE)
 
 Each presented audio example follows song and singer IDs in the original NUS-48E dataset paper [1]. All examples are 16-bit 22050 Hz WAV files.
 

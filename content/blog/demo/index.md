@@ -6,6 +6,8 @@ description: "Audio examples accompanying paper ID 192 for the 19th Internationa
 ---
 Audio examples accompanying paper ID 192 for 19th International Conference of Machine Learning and Applications.
 
+While listening to the following audio examples, please consider that the sonic artifacts present here and in state of the art singing voice conversion methods (e.g., [1] and [2]) are a target of an ongoing research.
+
 # JPSV-120E Dataset - Female (Song 13 & ID 27)
 
 Each presented audio example follows song and singer IDs in Tables I and II in the paper. All examples are 16-bit 22050 Hz WAV files.
@@ -139,7 +141,7 @@ Each presented audio example follows song and singer IDs in Tables I and II in t
 
 # NUS-48E Dataset - Female (Song 18 & ID ADIZ)
 
-Each presented audio example follows song and singer IDs in the original NUS-48E dataset paper [1]. All examples are 16-bit 22050 Hz WAV files.
+Each presented audio example follows song and singer IDs in the original NUS-48E dataset [3]. All examples are 16-bit 22050 Hz WAV files.
 
 <figure>
 <figcaption><b>Ground truth (female)</b></figcaption>
@@ -204,7 +206,7 @@ Each presented audio example follows song and singer IDs in the original NUS-48E
 
 # NUS-48E Dataset - Male (Song 15 & ID JLEE)
 
-Each presented audio example follows song and singer IDs in the original NUS-48E dataset paper [1]. All examples are 16-bit 22050 Hz WAV files.
+Each presented audio example follows song and singer IDs in the original NUS-48E dataset [3]. All examples are 16-bit 22050 Hz WAV files.
 
 <figure>
 <figcaption><b>Ground truth (male)</b></figcaption>
@@ -268,4 +270,8 @@ Each presented audio example follows song and singer IDs in the original NUS-48E
 
 
 ### References
-[1]  [Zhiyan Duan et al. “The NUS sung and spoken lyrics corpus: A quantitative comparison of singing and speech”. In: IEEE Asia-Pacific Signal and InformationProcessing Association Annual Summit and Conference (APSIPA ASC). 2013.](https://smcnus.comp.nus.edu.sg/nus-48e-sung-and-spoken-lyrics-corpus/)
+[1] [Yin-Jyun Luo et al. “Singing voice conversion with dis-entangled representations of singer and vocal technique using variational autoencoders”. In: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2020.](https://ismir19-217.github.io/icassp20-audio-sample/)
+
+[2] [Eliya Nachmani and Lior Wolf. “Unsupervised SingingVoice  Conversion”.  In: Annual  Conference  of  the  International  Speech  Communication  Association  (Inter-speech). 2019.](https://enk100.github.io/Unsupervised_Singing_Voice_Conversion/)
+
+[3]  [Zhiyan Duan et al. “The NUS sung and spoken lyrics corpus: A quantitative comparison of singing and speech”. In: IEEE Asia-Pacific Signal and InformationProcessing Association Annual Summit and Conference (APSIPA ASC). 2013.](https://smcnus.comp.nus.edu.sg/nus-48e-sung-and-spoken-lyrics-corpus/)
